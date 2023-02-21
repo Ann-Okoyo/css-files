@@ -1,0 +1,180 @@
+body{
+    border : solid blue 100px;
+    border-bottom: none;
+
+    
+
+}
+
+.logo{
+    width: 20%;
+    float: left;
+
+}  
+
+
+.navigation{
+    float: right;
+    font-size: 12px;
+    font-weight: 800;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.navigation ul li{
+    list-style: none;
+    padding: 1px 5px 5px 0px;
+    display: inline-block;
+    color: dimgray;
+    justify-content: right;
+    
+
+    
+
+
+}
+.work{
+    padding: 5px 90px 1px;
+    border-color: dodgerblue;
+    
+
+
+
+
+
+
+
+
+}
+.title{
+    text-align: center;
+    padding: 10%;
+    font-size: 100%;
+    
+
+}
+.Nice{
+    color: aquamarine;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 800;
+
+
+
+}
+.assign{
+    color: rgb(11, 11, 92);
+    
+
+}
+
+.Button{
+    color:rgb(0, 0, 0);
+    background-color: antiquewhite;
+    padding: 12px 24px;
+
+
+}
+.picture{
+   max-height: 50%;
+   width: 93%;
+
+}
+.logos{
+    /* margin-bottom: 900px; */
+    
+
+    
+    
+    
+    
+}
+#anni{
+    background-color: #bac8ff;
+    width: 150px;
+    height: 100px;
+    padding: 24px 36px;
+    border-radius: 10px;
+    margin-right: 50px;
+
+
+}
+#hani{
+    background-color:#bac8ff; 
+    width: 150px;
+    height: 100px;
+    padding: 24px 36px;
+    border-radius: 10px;
+    margin-right: 50px;
+
+}
+#ann{
+    background-color: darksalmon;
+    width: 150px;
+    height: 100px;
+    padding: 24px 36px;
+    border-radius: 10px;
+    margin-right: 50px;
+
+
+}
+.STYLE{
+    display: flex;
+    gap: 49px;
+
+
+
+    
+    
+}
+
+
+.text{
+    display: flex;
+    margin-left: 10%;
+    margin-bottom: 1000
+
+}
+.Jeff{
+    background-color: blue;
+}
+#top{
+    display: flex;
+    background-color: blue;
+}
+.section-logs{
+    display: flex;
+    gap: 20px;
+}
+.section{
+
+    display:flex;
+    margin-left: 600px;
+    
+}
+#a.w{
+    border: -2px solid;
+    background-color: blue;
+}
+#l.s{
+    border: 2px solid;
+    background-color: orangered;
+
+}
+
+
+}
+
+    .
+
+    
+
+    
+    
+
+
+
+
+
+
+    
